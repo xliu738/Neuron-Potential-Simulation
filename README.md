@@ -13,7 +13,7 @@ a.)
 
 
 b.)	
-https://github.com/xliu342/ECE4784.git
+https://github.com/xliu738/Neuron-Potential-Simulation.git
 
 
 c.)	
